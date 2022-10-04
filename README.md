@@ -3,7 +3,7 @@ Beauty Unlimited by Kye - Independently Owned Salon & Spa
 
 [**Link to project** ](https://kyedemo.netlify.app/)
 
-![BeautyUnlimited](/docs/2.png)
+![BeautyUnlimited](/images/3.png)
 
 ## What:
 
